@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1hCRPM7EKOVnWbk9cybRiwO6bEx3W09ri/view?usp=drive
 https://drive.google.com/file/d/1PEGfMCLkPoLUuJI4hazrNTk9iAs6pzzw/view?usp=drive_link
 ### ICP5 file contains ICP5 code solutions
 https://drive.google.com/file/d/17ZZJJtygTsdLcmUI9V1SK4Hwx_xOQk9T/view?usp=drive_link
+### ICP6 file contains ICP6 code solutions
+https://drive.google.com/file/d/1J2luGvrUPOCtu-9fipjeJr-fQxqHOhWz/view?usp=drive_link
